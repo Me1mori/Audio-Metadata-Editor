@@ -1,0 +1,19 @@
+# Interfaz gráfica
+PyQt6==6.7.1
+
+# Procesamiento de audio
+pydub==0.25.1
+
+# Edición de metadatos
+mutagen==1.47.0
+
+# APIs para metadatos musicales
+musicbrainzngs==0.7.1
+lyricsgenius==3.0.1
+
+# Scraping web (fallback)
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Empaquetado a .exe
+pyinstaller==6.10.0
